@@ -3,7 +3,7 @@ import random
 
 
 
-st.set_page_config(page_title="z-Acxo", layout="centered")
+st.set_page_config(page_title="z-Acxo", layout="centered",page_icon ="favi.jpg")
 #name = st.text_input("Name", max_chars=10)
 st.title("Z-acxo ")
 ai_name = "Jimmy"
@@ -102,5 +102,6 @@ st.text("" \
 "" \
 "" \
 "")
+
 
 st.link_button(icon="🅾" , url="https://www.instagram.com/superacxo?igsh=NTQwYWE3cWFsNW1p",label='instagram')
